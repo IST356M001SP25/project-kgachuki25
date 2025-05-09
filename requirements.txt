@@ -6,3 +6,4 @@ geopandas[all]
 folium
 streamlit-folium
 hdx-python-api
+matplotlib

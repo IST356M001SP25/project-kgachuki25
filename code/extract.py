@@ -6,8 +6,8 @@ from hdx.api.configuration import Configuration
 from hdx.data.dataset import Dataset
 
 # Extracting ACLED Data:
-APIKEY = "-HJT9qOn8nYSbAqmpELg" # place apikey here
-EMAIL = "kgachuki@syr.edu" # place email here
+APIKEY = "" # place apikey here
+EMAIL = "" # place email here
 URL = "https://api.acleddata.com/acled/read"
 parameters1 = {
     "email": EMAIL,
